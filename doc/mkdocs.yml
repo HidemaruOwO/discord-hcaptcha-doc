@@ -1,0 +1,7 @@
+site_name: Discord hCaptcha Document
+theme:
+  name: "material"
+  language: "ja"
+extra:
+  search:
+    language: "ja"
