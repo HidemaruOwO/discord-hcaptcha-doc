@@ -7,3 +7,7 @@ extra:
     language: "ja"
 extra_css:
   - css/custom.css
+nav:
+  - ホーム: index.md
+  - コマンド: command.md
+  - 注意: attention.md
