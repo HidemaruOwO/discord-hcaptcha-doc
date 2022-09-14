@@ -3,7 +3,8 @@ site_url: https://discord-hcaptcha.doc.v-sli.me/
 site_description: Discord hCaptchaの公式ドキュメント
 site_author: Hidemaru
 copyright: Hidemaru
-
+markdown_extensions:
+  - admonition
 theme:
   name: "material"
   language: "ja"
