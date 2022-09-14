@@ -5,3 +5,5 @@ theme:
 extra:
   search:
     language: "ja"
+extra_css:
+  - css/custom.css

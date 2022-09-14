@@ -1,0 +1,17 @@
+@import url("http://fonts.googleapis.com/earlyaccess/notosansjp.css");
+
+body {
+  color: #444;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 600 !important;
+}
+
+.md-typeset h3,
+h4,
+h5 {
+  font-weight: 500 !important;
+}
