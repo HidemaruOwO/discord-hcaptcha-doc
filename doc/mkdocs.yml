@@ -1,8 +1,18 @@
 site_name: Discord hCaptcha Document
+site_url: https://discord-hcaptcha.doc.v-sli.me/
+site_description: Discord hCaptchaの公式ドキュメント
+site_author: Hidemaru
+copyright: Hidemaru
+
 theme:
   name: "material"
   language: "ja"
 extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Hidemaru_OwO
+    - icon: fontawesome/brands/github
+      link: https://github.com/HidemaruOwO
   search:
     language: "ja"
 extra_css:
