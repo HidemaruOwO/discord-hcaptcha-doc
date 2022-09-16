@@ -27,3 +27,40 @@ Option なし
 ```
 /ping
 ```
+
+## 🔗 url コマンド
+
+このコマンドは Discord hCaptcha の関連リンクを表示させます
+表示させる物
+
+- [招待リンク](https://discord.com/api/oauth2/authorize?client_id=1016347472022474773&permissions=1110517566518&scope=bot%20applications.commands)
+- [ドキュメント](https://discord-hcaptcha.doc.v-sli.me/)
+- [GitHub Repository](https://github.com/HidemaruOwO/discordjs-hcaptcha)
+
+### Usage
+
+Option なし
+
+```
+/url
+```
+
+## 🛠️ genrole コマンド
+
+このコマンドは`verified`ロールを作成します
+
+### Usage
+
+```
+/genrole
+```
+
+## 🛠️ genbutton コマンド
+
+このコマンドは認証サイトに移動させるためのボタンを作成します
+
+### Usage
+
+```
+/genbutton
+```
